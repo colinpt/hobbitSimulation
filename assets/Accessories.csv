@@ -1,0 +1,8 @@
+Name,Damage,Armor,MaxHp,Detection,MoveSpeed,PassiveHealing,Rarity
+Lesser Ring,1,1,5,0,0,0,1
+Elfstone,0,1,10,0,0,1,2
+Narya,2,5,15,0,0,0,3
+Nenya,3,3,8,2,1,0,3
+Vilya,2,2,30,0,0,3,3
+The One Ring,5,7,30,1,1,3,3
+Eagle Feather,3,2,10,0,1,2,4

@@ -1,0 +1,10 @@
+﻿Name,Type,Damage,Armor,MaxHP,Detection,MoveSpeed,Rarity
+Leather Cap,Helmet,0,1,6,0,0,0
+Studded Shirt,Chest,0,2,7,0,0,0
+Worn Boots,Boots,0,1,4,0,0,0
+Chain Hood,Helmet ,0,2,7,0,0,1
+Scale Mail,Chest,0,3,10,0,0,2
+War Boots,Boots,2,1,6,0,1,2
+Mithril Helm,Helmet,2,4,12,1,0,2
+Mithril chestplate,Chest,1,5,15,0,0,3
+Mithril Boots,Boots,1,3,10,0,1,3

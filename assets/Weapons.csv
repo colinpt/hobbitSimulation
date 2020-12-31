@@ -1,0 +1,9 @@
+﻿Name,Damage,Armor,MaxHP,Detection,Range,DOT,Quality
+Dagger,2,0,0,0,0,0,0
+Mace,1,1,0,0,0,0,0
+Spear,-3,1,0,0,1,0,1
+Barrow Blade,4,0,0,0,0,0,1
+Morgul Knife ,3,0,0,0,0,1,2
+Black Mace,4,0,10,0,0,0,2
+Sting,5,1,0,1,0,0,3
+Flame Whip,8,0,15,1,1,1,4
